@@ -22,7 +22,7 @@
 
 ---
 
-## 🔑 Key Concepts (Atomic Notes)
+## 🔑 Key Concepts (Notions Fondamentales)
 
 ### Vices du Consentement
 - [[Erreur (arts. 1110-1117)]]
@@ -170,4 +170,24 @@ For Luxembourg banking practice, prioritize:
 
 ---
 
-*Navigation: This is the master index. All roads lead here.*
+## 🔗 Cross-References to Company Law
+
+Obligations concepts apply to corporate contexts:
+
+### Contract Formation
+- [[Capacité juridique des sociétés]] — Corporate capacity to contract
+- [[Représentation de la société]] — Authority to bind company
+- [[Objet social]] — Acts within corporate purpose
+
+### Corporate Benefit
+- [[Corporate benefit]] — Cause for upstream guarantees
+- [[Conventions réglementées]] — Related-party transactions
+- [[Groupe de sociétés]] — Intragroup contracts
+
+### Director Responsibility
+- [[Responsabilité des dirigeants]] — Contractual liability of directors
+- [[Action en responsabilité]] — Claims against directors
+
+---
+
+*Navigation: See also [[🧭 Droit des sûretés — Index]] and [[🧭 Droit des sociétés — Index]].*

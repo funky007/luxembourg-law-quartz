@@ -49,7 +49,7 @@
 
 ---
 
-## 🔑 Key Concepts (Atomic Notes)
+## 🔑 Key Concepts (Notions Fondamentales)
 
 ### Fundamental Principles
 - [[Accessoriété]] — Accessory character of security
@@ -226,4 +226,30 @@ For Luxembourg banking practice, prioritize:
 
 ---
 
-*Navigation: This is the sûretés master index. See also [[🧭 Droit des obligations — Index]] for obligations concepts.*
+## 🔗 Cross-References to Company Law
+
+Security interests often involve corporate entities. Key company law concepts:
+
+### Corporate Capacity and Authority
+- [[Capacité juridique des sociétés]] — Company's power to grant security
+- [[Représentation de la société]] — Who can bind the company
+- [[Délégation de pouvoirs]] — Verifying signatory authority
+- [[Objet social]] — Security within corporate purpose
+
+### Director Liability and Guarantees
+- [[Caution dirigeante]] — Director's personal guarantees
+- [[Responsabilité des dirigeants]] — Director liability for unauthorized acts
+- [[Conventions réglementées]] — Related-party security transactions
+
+### Corporate Groups
+- [[Groupe de sociétés]] — Group structures and upstream guarantees
+- [[Corporate benefit]] — *Intérêt social* for cross-guarantees
+
+### Company Distress
+- [[Dissolution]] — Impact on security interests
+- [[Liquidation]] — Priority in winding up
+- [[Liquidateur]] — Powers over secured assets
+
+---
+
+*Navigation: See also [[🧭 Droit des obligations — Index]] and [[🧭 Droit des sociétés — Index]].*

@@ -1,100 +1,110 @@
-# Luxembourg Obligations Law — Obsidian Vault
+# Luxembourg Law — Obsidian Vault
 
-## 📦 Contents
+## Contents
 
-This vault contains comprehensive notes on Luxembourg obligations law based on **Poelmans, *Droit des obligations au Luxembourg*** (Larcier).
+This vault contains comprehensive notes on Luxembourg civil and commercial law, covering:
 
-### Structure
+- **Droit des obligations** (Contract law, liability, extinction)
+- **Droit des sûretés** (Securities and guarantees)
+- **Droit des sociétés** (Company law)
+
+### Primary Sources
+
+| Subject | Author | Title |
+|---------|--------|-------|
+| Obligations | O. Poelmans | *Droit des obligations au Luxembourg*, Larcier |
+| Sûretés | H. Westendorf | *Les sûretés et garanties du crédit en droit luxembourgeois*, T.1 & T.3, Larcier |
+| Sociétés | R. Steichen | *Précis de droit des sociétés*, Saint-Paul |
+
+---
+
+## Structure
 
 ```
-obsidian-obligations/
+Luxembourg-Law-Vault/
 ├── 00-Index/
-│   └── 🧭 Droit des obligations — Index.md (START HERE)
-├── 01-Foundations/
-│   └── 01 - Foundations and Sources.md
-├── 02-Formation/
-│   └── 02 - Formation of Contracts.md
-├── 03-Effets/
-│   ├── 03 - Content and Effects of Contracts.md
-│   └── 04 - Interpretation of Contracts.md
-├── 04-Inexecution/
-│   ├── 05 - Non-performance and Remedies.md
-│   └── 06 - Dissolution of Contracts.md
-├── 05-Responsabilite/
-│   └── 07 - Extra-contractual Liability.md
-├── 06-Quasi-contrats/
-│   └── 08 - Quasi-contracts.md
-├── 07-Extinction/
-│   └── 09 - Extinction Transfer Proof Plurality.md
-└── 08-Concepts-Atomiques/
-    ├── Erreur (arts. 1110-1117).md
-    ├── Violence (arts. 1111-1114).md
-    ├── Dol (art. 1116).md
-    ├── Lésion (art. 1118).md ⚠️ 1-year prescription!
-    ├── Capacité (arts. 1123-1125).md
-    ├── Objet (arts. 1126-1130).md
-    ├── Cause (arts. 1131-1133).md
-    ├── Nullité.md
-    ├── Bonne foi (art. 1134 al. 3).md
-    ├── Force majeure (arts. 1147-1148).md
-    ├── Résolution judiciaire (art. 1184).md
-    ├── Non-cumul des responsabilités.md
-    ├── Interprétation du contrat (arts. 1156-1164).md
-    ├── Solidarité (art. 1202).md
-    └── Prescription extinctive.md
+│   ├── Droit des obligations — Index.md
+│   ├── Droit des sûretés — Index.md
+│   └── Droit des sociétés — Index.md
+│
+├── OBLIGATIONS (01-09)
+│   ├── 01-Foundations/
+│   ├── 02-Formation/
+│   ├── 03-Effets/
+│   ├── 04-Inexecution/
+│   ├── 05-Responsabilite/
+│   ├── 06-Quasi-contrats/
+│   ├── 07-Extinction/
+│   └── 08-Notions-Fondamentales/
+│
+├── SÛRETÉS (10-14)
+│   ├── 10-Fondements-Suretes/
+│   ├── 11-Gage/
+│   ├── 12-Propriete-Suretes/
+│   ├── 13-Suretes-Personnelles/
+│   └── 14-Notions-Fondamentales-Suretes/
+│
+└── SOCIÉTÉS (20-28)
+    ├── 20-Fondements-Societes/
+    ├── 21-Constitution-Societes/
+    ├── 22-Organisation-Societes/
+    ├── 23-Dynamique-Societes/
+    ├── 24-Notions-Fondamentales-Societes/
+    ├── 25-Societes-Personnes/
+    ├── 26-SARL/
+    ├── 27-SA/
+    └── 28-Formes-Speciales/
 ```
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
-### 1. Unzip
-
-Unzip this file to a location on your computer.
-
-### 2. Open in Obsidian
+### 1. Open in Obsidian
 
 1. Open Obsidian
 2. Click **"Open folder as vault"** (or **"Open another vault"** → **"Open folder as vault"**)
-3. Select the unzipped folder
+3. Select this folder
 
-### 3. Configure (Recommended)
+### 2. Configure (Recommended)
 
-1. **Pin the Index**: Open `🧭 Droit des obligations — Index.md`, right-click tab → **Pin**
+1. **Pin an Index**: Open any index file, right-click tab → **Pin**
 2. **Enable Backlinks**: Settings → Core plugins → Backlinks → Enable
 3. **Enable Graph View**: Press `Ctrl+G` / `Cmd+G` to see connections
 4. **Save Workspace**: Settings → Core plugins → Workspaces → Save current layout
 
 ---
 
-## 📖 How to Use
+## How to Use
 
 ### Navigation
 
-- **Master Index**: Start from `🧭 Droit des obligations — Index.md`
+- **Master Indices**: Start from any `Droit des [X] — Index.md`
 - **Wikilinks**: Click `[[bracketed terms]]` to navigate
 - **Backlinks**: See what links to current note (panel on right)
 - **Graph View**: Visualize connections (`Ctrl+G` / `Cmd+G`)
 
 ### Study Approach
 
-1. Start with the **Index** for overview
-2. Read **main parts** (01-09) for comprehensive coverage
-3. Dive into **atomic notes** for detailed concepts
+1. Start with the relevant **Index** for overview
+2. Read **main parts** for comprehensive coverage
+3. Dive into **notions fondamentales** for detailed concepts
 4. Use **Graph View** to understand connections
+5. Follow **cross-references** between subjects
 
 ### Banking & Finance Focus
 
-Prioritize these atomic notes for banking practice:
+Key notes for banking practice:
 - [[Cause (arts. 1131-1133)]] — Corporate benefit
 - [[Capacité (arts. 1123-1125)]] — Authority, ultra vires
+- [[Corporate benefit]] — Upstream guarantees
 - [[Solidarité (art. 1202)]] — Joint liability
-- [[Non-cumul des responsabilités]] — Liability regimes
-- [[Prescription extinctive]] — Limitation periods
+- [[Responsabilité des dirigeants]] — Director liability
+- [[SA — Administration]] — Board structures
 
 ---
 
-## ⚠️ Key Warnings
+## Key Warnings
 
 ### 1-Year Prescription for Lésion
 
@@ -110,23 +120,30 @@ Prioritize these atomic notes for banking practice:
 
 ---
 
-## 🏷️ Tags Used
+## Tags Used
 
-- `#luxembourg-law`
+### By Subject
 - `#droit-des-obligations`
+- `#droit-des-suretes`
+- `#droit-des-societes`
+
+### By Source
 - `#poelmans`
+- `#westendorf`
+- `#steichen`
+
+### By Application
 - `#banking-finance`
-- `#vice-consentement`
-- `#nullité-relative`
-- `#nullité-absolue`
+- `#luxembourg-law`
 
 ---
 
-## 📚 Source
+## Verification
 
-**Primary**: O. Poelmans, *Droit des obligations au Luxembourg*, Larcier
-
-All content verified against primary source. No hallucinations.
+All content is sourced from the primary texts listed above. Each note includes:
+- Source references (author, section number)
+- Article citations (Code civil, Loi 1915, etc.)
+- Case law where cited by the source authors
 
 ---
 
