@@ -154,16 +154,6 @@ For transactions with **regulated vehicles** (UCIs, SIFs, SICARs, RAIFs), the ne
 
 ---
 
-## Case Law Developments (2024)
-
-| Holding | Source |
-|---------|--------|
-| Misconduct/bad faith of management does not preclude judicial reorganisation | Trib. Lux., Nov 2023, Apr 2024 |
-| Significant disparity between liquidity and liabilities suffices to show "business in peril" | Trib. Lux., Jan-Mar 2024 |
-| Foreign assets of Luxembourg debtor can be transferred under court order | CA Lux., Feb 2024 |
-
----
-
 > **Common Law Comparison**
 >
 > Luxembourg's new framework is broadly comparable to:
