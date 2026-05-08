@@ -39,6 +39,8 @@
 | 39 | Simplified Stock Company (SAS) | [[39 - SAS]] |
 | 40 | European Company (SE) | [[40 - Société Européenne (SE)]] |
 | 41 | Partnership Limited by Shares (SCA) | [[41 - SCA]] |
+| 42 | Reserved Alternative Investment Fund | [[42 - RAIF — Overview]] |
+| 43 | UCI/UCITS Framework | [[43 - UCI — Overview]] |
 
 ---
 
@@ -113,6 +115,11 @@
 - [[Caution dirigeante]] — Director's guarantee
 - [[Action en nullité]] — Challenge to resolutions
 
+### Partnership Structures (SCS/SCSp)
+- [[Parts d'intérêts (Partnership Units)]] — Partnership unit mechanics
+- [[SCSp — Régime patrimonial]] — Gesamthand patrimony doctrine
+- [[SCSp — Fund Structures (AIFM-SICAR-FIS)]] — Fund vehicle applications
+
 ---
 
 ## Company Types Quick Reference
@@ -141,6 +148,11 @@
 | **Loi du 19 décembre 2002** | RCS, accounting, annual accounts |
 | **Règl. gd. 23 janvier 2003** | RCS formalities |
 | **Loi du 23 juillet 2016** | SAS introduction |
+| **Loi du 12 juillet 2013** | AIFM transposition, SCSp creation |
+| **Loi du 23 juillet 2016** | RAIF (Reserved Alternative Investment Fund) |
+| **Loi du 17 décembre 2010** | UCI (Undertakings for Collective Investment) |
+| **Loi du 13 février 2007** | SIF (Specialised Investment Fund) |
+| **Loi du 15 juin 2004** | SICAR (Risk Capital Investment Company) |
 
 ---
 
@@ -208,6 +220,11 @@ For Luxembourg banking practice, prioritize:
 - [[Corporate benefit]] — Upstream/cross-stream guarantees
 - [[Caution dirigeante]] — Director guarantees
 - [[23 - Cautionnement — Formation]] — Suretyship for companies
+
+### Links to Insolvency
+- [[Procédures d'insolvabilité — Vue d'ensemble]] — Overview of insolvency procedures
+- [[Faillite et période suspecte]] — Bankruptcy and suspect period
+- [[Responsabilité des dirigeants]] — Director liability in insolvency
 
 ---
 

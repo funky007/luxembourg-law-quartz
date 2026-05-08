@@ -12,7 +12,7 @@
 
 | Article | Subject |
 |---------|---------|
-| Art. 420-1 L1915 | Definition de la SA - capital divise en actions |
+| Art. 430-1 L1915 | Definition de la SA - capital divise en actions |
 | Art. 420-3 L1915 | Nombre minimum d'actionnaires (2, ou 1 pour SA-U) |
 | Art. 420-5 L1915 | Capital social minimum (30.000 EUR) |
 | Art. 420-6 L1915 | Liberation du capital (25% minimum) |

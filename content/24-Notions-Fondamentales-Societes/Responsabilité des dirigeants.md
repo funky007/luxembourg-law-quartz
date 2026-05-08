@@ -2,7 +2,7 @@
 
 > **Type**: Notion fondamentale
 > **Source**: Steichen, *Précis de droit des sociétés*, Titre 3, Chapitre 3
-> **Key Legislation**: Arts. 59, 59bis, 192 L1915; Arts. 1382-1383 C.civ.
+> **Key Legislation**: Arts. 441-9, 441-10, 710-15 L1915; Arts. 1382-1383 C.civ.
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### 1.1 Liability to the Company (*Responsabilité envers la société*)
 
-**Art. 59 L1915** (SA): Directors are liable to the company for:
+**Art. 441-9 L1915** (SA): Directors are liable to the company for:
 - Breach of legal duties
 - Violation of articles of association
 - Management faults (*fautes de gestion*)
@@ -42,7 +42,7 @@
 
 ### 1.3 Liability to Third Parties (*Responsabilité envers les tiers*)
 
-**Art. 59bis L1915** (SA): Directors are personally liable to third parties for:
+**Art. 441-10 L1915** (SA): Directors are personally liable to third parties for:
 - Faults causing damage distinct from company's non-performance
 
 **Classic example**: Pursuing business when insolvency is evident (*poursuite abusive d'activité*).
@@ -89,7 +89,7 @@
 
 ### 3.2 Luxembourg Approach
 
-**Art. 59 al. 2 L1915**: No liability for "acts of normal management" (*actes de gestion normale*).
+**Art. 441-9 al. 2 L1915**: No liability for "acts of normal management" (*actes de gestion normale*).
 
 **Steichen**: Courts defer to business decisions unless:
 - Manifest imprudence
@@ -131,7 +131,7 @@ Directors may face criminal prosecution for:
 
 ### 5.1 Exculpatory Provisions
 
-**Art. 59 al. 3 L1915**: Directors not liable if:
+**Art. 441-9 al. 3 L1915**: Directors not liable if:
 - They opposed the decision
 - They reported disagreement in writing
 
@@ -144,7 +144,7 @@ Directors may face criminal prosecution for:
 
 ### 5.3 Limitation Period
 
-**Art. 59 L1915**: Action against directors prescribes after **5 years** from the act or, if concealed, from discovery.
+**Art. 441-9 L1915**: Action against directors prescribes after **5 years** from the act or, if concealed, from discovery.
 
 ### 5.4 D&O Insurance
 
@@ -161,7 +161,7 @@ Directors may face criminal prosecution for:
 
 ### 6.1 Principle
 
-**Art. 59 L1915**: Board members are jointly and severally liable (*solidairement responsables*) for collective decisions.
+**Art. 441-9 L1915**: Board members are jointly and severally liable (*solidairement responsables*) for collective decisions.
 
 ### 6.2 Individual Escape
 
@@ -205,6 +205,59 @@ Directors may escape joint liability if:
 When taking pledge over director's shares:
 - Verify no liability claims pending
 - Assess risk that shares may be worthless if liability materializes
+
+---
+
+## 7. Key Case Law
+
+### Director Liability — General Principles
+
+| Case | Holding |
+|------|---------|
+| **T. arr., 9 novembre 1984, n° 92/84** | Directors liable for continuing business when insolvency evident |
+| **T. arr., 13 novembre 1987, n° 37855** | Non-functioning board organs and abuse of legal personality constitute management faults |
+| **CA, 20 septembre 1989, n° 11217** | De facto directors (*dirigeant de fait*) subject to same liability as de jure directors |
+
+**Source**: R. Sabatier & M. Herat, "La responsabilité des dirigeants de société - les avancées jurisprudentielles", ACE 2015/6, pp. 17-26
+
+### Bankruptcy Extension — Elements of Fact
+
+| Case | Indicia Establishing Liability |
+|------|--------------------------------|
+| **T. arr., 13 novembre 1987** | Non-functioning organs; unidentified cash withdrawals; personal insurance funded by company; mixed credit |
+| **T. arr., 7 octobre 1988** | Improper accounting; personal/company funds commingled; registered office at director's home |
+| **T. arr., 19 décembre 1997** | Even good faith efforts (personal mortgage investment) do not excuse dissipating funds when knowing of critical situation |
+
+**Principle**: Courts apply *faisceau d'indices* (bundle of indicia) rather than single-fact tests.
+
+**Source**: R. Sabatier & M. Schwarz, "La responsabilité des dirigeants de société - les avancées jurisprudentielles (2ème partie)", ACE 2016/10, pp. 3-26
+
+### Fautes de Régularité vs. Fautes de Gestion
+
+| Fault Type | Nature | Burden of Proof |
+|------------|--------|-----------------|
+| **Fautes de régularité** | Obligation of result | Fault presumed once violation of law/articles proven |
+| **Fautes de gestion** | Obligation of means | Claimant must prove fault |
+
+**Cases on fautes de régularité**:
+- **Lux. 30 mai 1980** — Banking activity without authorization
+- **Lux. 23 déc. 1987, n° 29975** — Failure to convene shareholders despite capital loss
+- **Lux. 10 mars 2004, n° 83502** — Signature requirements breach
+
+**Source**: "Les responsabilités des dirigeants", Précis de droit des sociétés (Larcier 2020), pp. 299-450
+
+### Recent Jurisprudence
+
+| Case | Holding |
+|------|---------|
+| **T. arr., 26 février 1999, n° 48414** | Absence of regular accounting = grave fault |
+| **T. arr., 2 avril 1999, n° 48903** | Late declaration of cessation des paiements = grave fault |
+| **T. arr., 12 février 2003, n° 71584** | Non-payment of public creditors creates false credit |
+| **T. arr., 10 juillet 1998, n° 47886** | Fraudulent bankruptcy requires dolus intent |
+| **CA, 15 juil. 2002, n° 25.282** | Damages must be proven with certainty |
+| **Lux. 7 nov. 2014** | Damages calculations must follow strict causation |
+
+**Source**: "Les responsabilités des dirigeants", Précis de droit des sociétés (Larcier 2020)
 
 ---
 

@@ -97,6 +97,12 @@ export default (() => {
             return resource
           }
         })}
+        {/* Goatcounter Analytics */}
+        <script
+          data-goatcounter="https://belacre.goatcounter.com/count"
+          async
+          src="//gc.zgo.at/count.js"
+        ></script>
       </head>
     )
   }

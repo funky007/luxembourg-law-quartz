@@ -338,6 +338,21 @@ Must be at **"conditions commerciales normales"** (normal commercial terms).
 
 **Sanction for breach**: Damages, not nullity of the sale.
 
+### Enforcement Liability (See also [[Enforcement - Banker Liability]])
+
+**Key jurisprudential principle**: Improper enforcement results in **damages, not nullity**.
+
+**Case**: CA, 16 mai 2018, n° 39.827 — Violation of "conditions commerciales normales" → damages only; Art. 20(4) protects execution contracts; fraus omnia corrumpit inapplicable as subsidiary principle.
+
+**Case**: Cour de cassation, 14 février 2019 — Where enforcement event results from abuse/fraud, judge may order restitution despite Art. 20(4).
+
+**Limits on enforcement**:
+- Good faith (Art. 1134 al. 3 C.civ.)
+- Abuse of rights (Art. 6-1 C.civ.)
+- Proportionality (accessory nature limits enforcement to secured obligation)
+
+**Source**: P. Geortay, "Le caractère accessoire du gage et la loi sur les contrats de garantie financière", Strada Lex 2014, pp. 1271-1292
+
 #### Set-Off (*Compensation*)
 
 **Art. 11(1)(d), Arts. 18-19 loi 5 août 2005**:

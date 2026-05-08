@@ -35,6 +35,11 @@
 | 21 | Fiduciary Security | [[21 - Fiducie-sûreté]] |
 | 22 | Assignment as Security | [[22 - Cession de créance à titre de garantie]] |
 
+#### Hypothèque (Mortgage)
+| Part | Topic | Link |
+|------|-------|------|
+| 44 | Conventional Mortgage | [[44 - Hypothèque conventionnelle]] |
+
 ### Sûretés Personnelles (Personal Securities)
 
 | Part | Topic | Link |
@@ -46,6 +51,7 @@
 | 27 | Indemnity Guarantees | [[27 - Garanties indemnitaires]] |
 | 28 | Delegation as Security | [[28 - Délégation-sûreté]] |
 | 29 | Solidarity as Security | [[29 - Solidarité passive comme sûreté]] |
+| 30 | Professional Payment Guarantee | [[30 - Garantie professionnelle de paiement (GPP)]] |
 
 ---
 
@@ -61,6 +67,13 @@
 - [[Opposabilité aux tiers]] — Third-party effectiveness
 - [[Appropriation (pacte commissoire)]] — Creditor appropriation
 - [[Financial collateral (loi 5 août 2005)]] — Financial Collateral Law
+- [[Gage sur engagements investisseurs]] — Pledge over investor commitments
+- [[Gage sur portefeuille (NAV facilities)]] — NAV facility security
+
+### Financial Collateral Enforcement
+- [[Enforcement - Banker Liability]] — Liability for improper enforcement
+- [[Market Conditions Standard (Art. 11 Loi 2005)]] — Conditions commerciales normales
+- [[Anticipatory Realization (Accessoriété)]] — Enforcement before debt due
 
 ### Propriété-Sûretés (Property-based Security)
 - [[Affectation en garantie]] — Dedication as security
@@ -135,6 +148,8 @@ CARACTÈRE ACCESSOIRE
 | Code civil | Suretyship (Cautionnement) | Arts. 2011-2043 |
 | Code civil | Privileges & Mortgages | Arts. 2092-2203 |
 | Loi 5 août 2005 | Financial Collateral Arrangements | Entire act |
+| **Loi 10 juillet 2020** | **Professional Payment Guarantee (GPP)** | **Entire act** |
+| **Loi 7 août 2023** | **Insolvency/Restructuring Reform** | **Arts. 1-30+** |
 | Loi 21 décembre 1994 | Assignment & Pledge of Claims | Arts. I-IV |
 | Code de commerce | Commercial Pledge | Arts. 12-14 |
 
@@ -249,6 +264,23 @@ Security interests often involve corporate entities. Key company law concepts:
 - [[Dissolution]] — Impact on security interests
 - [[Liquidation]] — Priority in winding up
 - [[Liquidateur]] — Powers over secured assets
+
+---
+
+## 🔗 Cross-References to Insolvency
+
+Security interests are critically affected by insolvency procedures. Key cross-references:
+
+### Insolvency Procedures
+- [[Procédures d'insolvabilité — Vue d'ensemble]] — Overview of insolvency procedures
+- [[Faillite et période suspecte]] — Bankruptcy and suspect period rules
+- [[42 - Loi 7 août 2023 — Préservation des entreprises]] — **NEW** 2023 restructuring reform
+
+### Security in Insolvency
+- [[Enforcement - Banker Liability]] — Limits on enforcement
+- [[Anticipatory Realization (Accessoriété)]] — Enforcement timing
+
+> **Important**: The Loi du 7 août 2023 significantly modernizes Luxembourg insolvency law. Financial collateral under the Loi 5 août 2005 remains largely protected, but enforcement triggers should be reviewed. See [[42 - Loi 7 août 2023 — Préservation des entreprises]] for details.
 
 ---
 

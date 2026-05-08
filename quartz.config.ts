@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: " | Droit des obligations & sûretés",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: { provider: "google", tagId: "G-5Q0K5JCYQH" },
     locale: "en-US",
     baseUrl: "funky007.github.io/luxembourg-law-quartz",
     ignorePatterns: ["private", "templates", ".obsidian"],

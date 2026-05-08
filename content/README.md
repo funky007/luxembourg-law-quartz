@@ -1,5 +1,17 @@
 # Luxembourg Law — Obsidian Vault
 
+## Important Notice
+
+> **Disclaimer**: This resource is provided for educational and reference purposes only.
+>
+> - Content current as of May 2026
+> - Luxembourg law is subject to ongoing reform (Code civil modernization in progress)
+> - Users should verify current law for specific transactions
+> - This resource is not a substitute for professional legal advice
+> - French doctrine is cited for context; Luxembourg has not adopted all French reforms (e.g., 2016 contract law reform)
+
+---
+
 ## Contents
 
 This vault contains comprehensive notes on Luxembourg civil and commercial law, covering:
@@ -40,9 +52,11 @@ Luxembourg-Law-Vault/
 ├── SÛRETÉS (10-14)
 │   ├── 10-Fondements-Suretes/
 │   ├── 11-Gage/
+│   ├── 12-Hypotheque/
 │   ├── 12-Propriete-Suretes/
 │   ├── 13-Suretes-Personnelles/
-│   └── 14-Notions-Fondamentales-Suretes/
+│   ├── 14-Notions-Fondamentales-Suretes/
+│   └── 29-Insolvabilite/
 │
 └── SOCIÉTÉS (20-28)
     ├── 20-Fondements-Societes/
@@ -102,6 +116,18 @@ Key notes for banking practice:
 - [[Responsabilité des dirigeants]] — Director liability
 - [[SA — Administration]] — Board structures
 
+### Fund Finance Focus
+
+Key notes for fund finance practice:
+- [[Gage sur engagements investisseurs]] — Subscription line security
+- [[Gage sur portefeuille (NAV facilities)]] — NAV facility security
+- [[SCSp — Fund Structures (AIFM-SICAR-FIS)]] — Fund vehicle structures
+- [[SCSp — Régime patrimonial]] — Gesamthand analysis
+- [[42 - RAIF — Overview]] — Reserved Alternative Investment Funds
+- [[43 - UCI — Overview]] — UCI/UCITS framework
+- [[Financial collateral (loi 5 août 2005)]] — CGF regime
+- [[30 - Garantie professionnelle de paiement (GPP)]] — New personal security
+
 ---
 
 ## Key Warnings
@@ -147,4 +173,24 @@ All content is sourced from the primary texts listed above. Each note includes:
 
 ---
 
-*Last updated: January 2026*
+## Legislative Outlook
+
+### Recent Major Reforms
+
+| Law | Date | Subject |
+|-----|------|---------|
+| **Loi 7 août 2023** | 1 Nov 2023 | Insolvency/restructuring reform |
+| **Loi 10 juillet 2020** | 17 Jul 2020 | Garantie professionnelle de paiement |
+| **Loi 23 juillet 2016** | 1 Aug 2016 | RAIF vehicle |
+
+### Pending Reforms
+
+- **Code civil modernization**: Arrêté grand-ducal of 15 July 2022 established steering committee (President: M. David Hiez)
+- **Prescription reform**: Draft submitted to Minister of Justice
+- **Contract law reform**: Working group currently examining
+
+> **Note**: Luxembourg has **not** adopted the French 2016 contract law reform (Ordonnance n° 2016-131). The *cause* doctrine and traditional Code civil provisions remain in force.
+
+---
+
+*Last updated: May 2026*

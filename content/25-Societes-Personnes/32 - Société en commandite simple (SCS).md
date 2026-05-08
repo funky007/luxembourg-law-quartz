@@ -309,11 +309,102 @@ SCS may be used as:
 
 ---
 
+## 9. SCS vs. SCSp: Comparative Analysis
+
+### 9.1 The 2013 Reform
+
+**Law of 12 July 2013** created the SCSp alongside the traditional SCS, implementing AIFMD while preserving contractual freedom.
+
+> "La commandite spéciale constitue un cadre juridique parfaitement adapté aux véhicules de capital-investissement de type limited partnership."
+
+**Source**: C. Duro, "La société en commandite simple et la société en commandite spéciale après la loi du 12 juillet 2013", ACE 2013/9, p. 3
+
+### 9.2 Fundamental Distinctions
+
+| Feature | SCS | SCSp |
+|---------|-----|------|
+| **Legal Personality** | Yes (Art. 310-1 L1915) | No (Art. 320-1 L1915) |
+| **Patrimony** | Owns assets directly | Gesamthand (indivision spéciale) |
+| **RCS Registration** | Required | Not registered |
+| **Capital Structure** | Capital social | Parts d'intérêts only |
+| **Capital Maintenance** | Rules apply | No capital fixity |
+| **Creditor Protection** | Corporate veil | Partner liability rules |
+| **Tax Treatment** | Corporate or transparent | Generally transparent |
+
+**Source**: D. Boone & A. Trotska, "Le renouveau de la commandite (2ème partie)", JurisNews Vol. 5 No 4/2012, pp. 120-125
+
+### 9.3 The Gesamthand Doctrine
+
+The SCSp's absence of legal personality raised questions about asset holding. Luxembourg adopted the German **Gesamthand** (joint-hand) concept:
+
+**Art. 320-2 L1915**: "Les biens meubles et immeubles de la société en commandite spéciale forment un patrimoine séparé de celui de chaque associé."
+
+> "Le législateur a voulu doter la société en commandite spéciale d'un patrimoine propre et distinct du patrimoine personnel des associés, mais aussi du patrimoine de toute autre société en commandite spéciale dans laquelle l'un ou l'autre des associés aurait participé."
+
+**Key Characteristics**:
+- **Separate patrimony** distinct from each partner's personal assets
+- **Protection from personal creditors** of partners
+- **No need for trust structures** (unlike common law LP)
+- **Asset segregation** without corporate veil
+
+**Source**: P. Schleimer, "Réflexions sur le régime patrimonial de la société en commandite spéciale", Larcier 2013, pp. 49-65
+
+### 9.4 Practical Choice: SCS or SCSp?
+
+| Consideration | Prefer SCS | Prefer SCSp |
+|---------------|------------|-------------|
+| **Real estate holding** | Clearer title registration | Possible but complex |
+| **Banking relationships** | Easier account opening | May require explanation |
+| **Tax transparency** | Requires election | Default treatment |
+| **Capital distribution** | Subject to rules | Free distribution |
+| **Merger/demerger** | Eligible | Not eligible |
+| **Litigation capacity** | Clear standing | Acts through gérant |
+| **Confidentiality** | RCS publication | Greater privacy |
+| **Fund structures** | Both suitable | Often preferred |
+
+**Source**: D. Boone & A. Trotska, "Le renouveau de la commandite (3ème partie)", JurisNews Vol. 6 No 1-2/2013, p. 210
+
+### 9.5 Parts d'Intérêts Regime
+
+Both forms issue parts d'intérêts, but the regime differs:
+
+**SCS**: Parts d'intérêts represent capital contributions and are subject to capital maintenance principles.
+
+**SCSp**: Parts d'intérêts are purely contractual, with maximum flexibility:
+- No nominal value requirement
+- No equal value requirement
+- Free redemption/withdrawal per contrat social
+- Carried interest structures facilitated
+
+> "Les modalités d'émission des parts d'intérêts sont laissées à la libre discrétion des associés, qui les définissent dans le contrat social."
+
+**Source**: C. Duro, op. cit., pp. 12-13
+
+### 9.6 International Recognition
+
+The SCSp presents unique challenges:
+
+| Jurisdiction | Recognition |
+|--------------|-------------|
+| **Common Law** | Generally recognized as partnership |
+| **Civil Law** | May be treated as contract or entity |
+| **Tax Treaties** | Requires analysis per treaty |
+| **Security Interests** | Gesamthand assets vs. personal property |
+
+**Banking Consideration**: When taking security over SCSp assets or parts d'intérêts, careful analysis of the Gesamthand nature is required. See [[Gage sur engagements investisseurs]].
+
+**Source**: P. Schleimer, op. cit., pp. 58-62
+
+---
+
 ## Cross-References
 
 - [[31 - Societe en nom collectif (SNC)]] - All-unlimited partnership
 - [[30 - Societe civile]] - Civil partnership without joint liability
 - [[34 - SARL - Formation et fonctionnement]] - Common commandite entity
+- [[SCSp — Régime patrimonial]] - Detailed Gesamthand analysis
+- [[SCSp — Fund Structures (AIFM-SICAR-FIS)]] - Regulatory applications
+- [[Parts d'intérêts (Partnership Units)]] - Partnership unit mechanics
 
 ---
 
